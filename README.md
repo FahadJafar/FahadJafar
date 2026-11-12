@@ -1,67 +1,73 @@
-<div align="center">
+<!-- Header --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:2b2b2b&height=200&section=header&text=Fahad%20Jafar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Techanzy&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2ea043&height=180&section=header&text=Fahad%20Jafar&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%40%20Techanzy&descAlignY=58&descSize=18" width="100%"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E5383B&center=true&vCenter=true&width=620&lines=Building+things+people+use.;Shipping+things+teams+trust.;Pixel-perfect+Next.js+frontends;Reliable+Django+%26+Node+backends;Clear+scope.+Real+deadlines.+Delivered." alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%7C+Django;Building+cross-platform+apps+with+Flutter;Shipping+products+at+Techanzy+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<p> <a href="https://linkedin.com/in/fahadjafar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/FahadJafar?tab=repositories"><img src="https://img.shields.io/badge/Projects-1c1c1c?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=FahadJafar&style=for-the-badge&color=E5383B&label=Profile+Views"/> </p> </div> <br/> <!-- Intro --> <h3 align="center">I turn ideas into production-ready products: fast, clean and on time.</h3> <p align="center"> I'm a <b>Full-Stack Software Engineer</b> at <b>Techanzy</b>, building web and mobile products end to end.<br/> I care about the details users see, the architecture they don't, and the people I build with. </p> <br/> <!-- What I do -->
+<img src="https://img.shields.io/badge/-%E2%9C%A6-1c1c1c?style=flat-square&labelColor=1c1c1c&color=E5383B" height="22"/> What I Do
+<table> <tr> <td width="50%" valign="top">
+🎨 Frontend
 
-<p>
-  <a href="https://linkedin.com/in/fahadjafar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/FahadJafar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=FahadJafar&style=for-the-badge&color=2ea043&label=Profile+Views"/>
-</p>
+Next.js and React with a keen eye for detail: pixel-perfect UI, responsive layouts, accessibility and fast load times.
 
-</div>
+</td> <td width="50%" valign="top">
+⚙️ Backend
 
----
+Well-structured, secure APIs with Django and Node/Express, backed by clean data models in PostgreSQL and MongoDB.
 
-### 👨‍💻 About Me
+</td> </tr> <tr> <td width="50%" valign="top">
+🚀 Deployment
 
-- 🏢 Software Engineer at **Techanzy**
-- 🌐 Full-stack with **MERN** and **Django**, mobile with **Flutter**
-- 🌱 Currently exploring AI-powered apps and scalable backends
-- 📍 Based in Pakistan
-- 💬 Ask me about React, Next.js, Node, Django or Flutter
+I take apps from localhost to live with Docker, CI/CD pipelines and cloud hosting, so releases are smooth and repeatable.
 
----
+</td> <td width="50%" valign="top">
+📱 Mobile
 
-### 🛠️ Tech Stack
+Cross-platform apps with Flutter, one codebase on iOS and Android.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,react,nextjs,nodejs,express,django,flutter,mongodb,postgres,tailwind,docker,git,vscode&perline=8" />
-</p>
+</td> </tr> </table> <br/> <!-- How I work -->
+<img src="https://img.shields.io/badge/-%E2%9C%A6-1c1c1c?style=flat-square&labelColor=1c1c1c&color=E5383B" height="22"/> How I Work
 
----
+I don't just write code. I deliver outcomes.
 
-### 📊 GitHub Stats
+🎯 Scope first. I make sure I understand the goal, the users and what "done" means before I write a line.
+⏱️ Deadline-driven. I break projects into clear milestones, flag risks early and ship on time.
+✅ Best practices by default. Clean, readable code, code reviews, sensible architecture and codebases the next developer will thank you for.
+🤝 Communication is the job. Clear updates, honest estimates and no surprises. I work closely with designers, PMs, clients and fellow engineers.
+🔁 Ownership. If I build it, I own it, from kickoff to production and beyond.
+<br/> <!-- Tech stack -->
+<img src="https://img.shields.io/badge/-%E2%9C%A6-1c1c1c?style=flat-square&labelColor=1c1c1c&color=E5383B" height="22"/> Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" /><br/><br/> <img src="https://skillicons.dev/icons?i=django,python,nodejs,express,postgres,mongodb&theme=dark" /><br/><br/> <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,linux,git,flutter,dart&theme=dark" /> </p> <p align="center"><sub>Frontend &nbsp;·&nbsp; Backend &amp; Data &nbsp;·&nbsp; DevOps, Tools &amp; Mobile</sub></p> <br/> <!-- Featured projects -->
+<img src="https://img.shields.io/badge/-%E2%9C%A6-1c1c1c?style=flat-square&labelColor=1c1c1c&color=E5383B" height="22"/> Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🤖 AI Auto-Evaluation System
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FahadJafar&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=1f6feb" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadJafar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043" />
-</p>
+AI-powered system that grades answers automatically and gives instant feedback.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FahadJafar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" />
-</p>
+JavaScript AI
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahadJafar&bg_color=0d1117&color=2ea043&line=1f6feb&point=ffffff&area=true&hide_border=true" />
-</p>
+</td> <td width="50%" valign="top">
+🚗 Automotive Marketplace
 
----
+A marketplace for buying and selling vehicles.
 
-### 🚀 Featured Projects
+React JavaScript
 
-| Project | Description | Stack |
-|---|---|---|
-| [AI-Based-Auto-Evaluation-System](https://github.com/FahadJafar/AI-Based-Auto-Evaluation-System) | AI-powered automatic evaluation system | JavaScript |
-| [Automotive-Marketplace](https://github.com/FahadJafar/Automotive-Marketplace) | Marketplace for buying and selling vehicles | React |
-| [Palito](https://github.com/FahadJafar/Palito) | Full-stack MERN project | MERN |
-| [NextJS](https://github.com/FahadJafar/NextJS) | Project built with Next.js | Next.js |
+</td> </tr> <tr> <td width="50%" valign="top">
+⚡ Next.js Project
 
----
+A modern web app built with Next.js.
 
-<div align="center">
+Next.js React
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+</td> <td width="50%" valign="top">
+🍽️ Palito
 
-</div>
+Full-stack MERN application with a React frontend, Express API and MongoDB.
+
+MongoDB Express React Node
+
+</td> </tr> </table> <br/> <!-- Stats -->
+<img src="https://img.shields.io/badge/-%E2%9C%A6-1c1c1c?style=flat-square&labelColor=1c1c1c&color=E5383B" height="22"/> GitHub Activity
+<p align="center"> <img src="https://streak-stats.demolab.com?user=FahadJafar&hide_border=true&background=1C1C1C&stroke=3A3A3A&ring=E5383B&fire=E5383B&currStreakNum=FFFFFF&currStreakLabel=E5383B&sideNums=FFFFFF&sideLabels=BBBBBB&dates=888888" /> </p> <!-- Generated daily by .github/workflows/profile.yml --> <p align="center"> <img height="160" src="./profile-summary-card-output/github_dark/3-stats.svg" /> <img height="160" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" /> </p> <p align="center"> <img alt="Contribution snake" src="https://raw.githubusercontent.com/FahadJafar/FahadJafar/output/github-snake-red.svg" width="100%" /> </p> <br/> <!-- Contact -->
+<img src="https://img.shields.io/badge/-%E2%9C%A6-1c1c1c?style=flat-square&labelColor=1c1c1c&color=E5383B" height="22"/> Let's Build Something
+<p align="center"> Open to collaborating on ambitious products and teams that value craft and communication.<br/> The fastest way to reach me is <a href="https://linkedin.com/in/fahadjafar"><b>LinkedIn</b></a>. </p> <!-- Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:1c1c1c&height=110&section=footer" width="100%"/>
